@@ -1,0 +1,9 @@
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\bin\Debug\netcoreapp3.1\ApplicaitonService.deps.json
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\bin\Debug\netcoreapp3.1\ApplicaitonService.dll
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\bin\Debug\netcoreapp3.1\ApplicaitonService.pdb
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\obj\Debug\netcoreapp3.1\ApplicaitonService.csprojAssemblyReference.cache
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\obj\Debug\netcoreapp3.1\ApplicaitonService.AssemblyInfoInputs.cache
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\obj\Debug\netcoreapp3.1\ApplicaitonService.AssemblyInfo.cs
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\obj\Debug\netcoreapp3.1\ApplicaitonService.csproj.CoreCompileInputs.cache
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\obj\Debug\netcoreapp3.1\ApplicaitonService.dll
+C:\Users\bayatisy\source\repos\ScooterRental\ScooterRental.ApplicaitonService\obj\Debug\netcoreapp3.1\ApplicaitonService.pdb

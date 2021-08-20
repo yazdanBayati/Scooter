@@ -1,0 +1,12 @@
+C:\Users\bayatisy\source\repos\ScooterRental\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\bayatisy\source\repos\ScooterRental\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\bayatisy\source\repos\ScooterRental\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\bayatisy\source\repos\ScooterRental\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\bayatisy\source\repos\ScooterRental\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\bayatisy\source\repos\ScooterRental\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\bayatisy\source\repos\ScooterRental\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\bayatisy\source\repos\ScooterRental\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\bayatisy\source\repos\ScooterRental\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\bayatisy\source\repos\ScooterRental\Core\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\bayatisy\source\repos\ScooterRental\Core\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\bayatisy\source\repos\ScooterRental\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete

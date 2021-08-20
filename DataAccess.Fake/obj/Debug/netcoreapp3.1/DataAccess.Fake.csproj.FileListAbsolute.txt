@@ -1,0 +1,14 @@
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\bin\Debug\netcoreapp3.1\DataAccess.Fake.deps.json
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\bin\Debug\netcoreapp3.1\DataAccess.Fake.dll
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\bin\Debug\netcoreapp3.1\DataAccess.Fake.pdb
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\obj\Debug\netcoreapp3.1\DataAccess.Fake.csprojAssemblyReference.cache
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\obj\Debug\netcoreapp3.1\DataAccess.Fake.AssemblyInfoInputs.cache
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\obj\Debug\netcoreapp3.1\DataAccess.Fake.AssemblyInfo.cs
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\obj\Debug\netcoreapp3.1\DataAccess.Fake.csproj.CoreCompileInputs.cache
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\obj\Debug\netcoreapp3.1\DataAccess.Fake.dll
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\obj\Debug\netcoreapp3.1\DataAccess.Fake.pdb
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\bayatisy\source\repos\ScooterRental\DataAccess.Fake\obj\Debug\netcoreapp3.1\DataAccess.Fake.csproj.CopyComplete
